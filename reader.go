@@ -3,10 +3,11 @@ package goyaml2
 import (
 	"bufio"
 	"fmt"
-	"github.com/wendal/errors"
 	"io"
 	"log"
 	"strings"
+
+	"github.com/wheelcomplex/errors"
 )
 
 const (
